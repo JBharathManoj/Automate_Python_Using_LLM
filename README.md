@@ -3,9 +3,6 @@
 Use Python version 3.12.
 
 To execute, type:
-
-bash
-Copy code
 python main.py
 You will see the server running at http://127.0.0.1:9900.
 
