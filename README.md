@@ -14,4 +14,4 @@ After successful execution, use the download endpoint.
 
 Download: When you execute this endpoint, you will see a download option to retrieve a text file containing the output.
 
-Don't forgot to replace your OpenAi GPT 3.5 Turbo key in variable.yaml.
+Don't forgot to replace your OpenAI GPT 3.5 Turbo key in variable.yaml.
